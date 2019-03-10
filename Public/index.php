@@ -6,6 +6,4 @@
  * Time: 7:46 PM
  */
 
-
-
-echo "sample";
+echo 'test';
