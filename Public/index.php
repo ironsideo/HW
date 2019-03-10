@@ -6,4 +6,6 @@
  * Time: 7:46 PM
  */
 
-echo 'The test is updated';
+
+
+echo "sample";
